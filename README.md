@@ -1,6 +1,6 @@
 # Wallpapers
 
-This repository contains the wallpapers that I use.
+This repository contains the wallpapers that I use. It serves as a personal collection of backgrounds gathered over time, including nature, cityscapes, animals, and abstract styles for different moods and setups.
 
 ## Images
 
@@ -1059,4 +1059,3 @@ This repository contains the wallpapers that I use.
 ![zea.jpg](images/zea.jpg)
 
 ![Óbidos, Portugal by bonstio_uploaded on 02 Apr 2014_tagged with [ streets, vivid, color ].JPG](images/%C3%93bidos%2C%20Portugal%20by%20bonstio_uploaded%20on%2002%20Apr%202014_tagged%20with%20%5B%20streets%2C%20vivid%2C%20color%20%5D.JPG)
-
